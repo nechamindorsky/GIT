@@ -1,4 +1,11 @@
+
+let u = 5;
+
+let y=u*5;
+console.log('גם אניייייי ')
 console.log('i am very tyred ')
-let x=7;
-let b=9;
-console.log(x*b)
+
+
+console.log(y*u)
+
+
